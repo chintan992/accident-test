@@ -1,0 +1,10 @@
+numpy==1.19.5
+six==1.15.0
+tensorflow
+requests==2.23.0
+jsonschema==2.6.0
+opencv-python==4.1.2.30
+zipfile
+tarfile
+Pillow==7.1.2
+matplotlib==3.2.2
