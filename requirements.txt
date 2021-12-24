@@ -4,7 +4,6 @@ tensorflow
 requests
 jsonschema
 opencv-python
-zipfile
 tarfile
 Pillow
 matplotlib
